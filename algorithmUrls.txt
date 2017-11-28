@@ -1,0 +1,6 @@
+http://www.geeksforgeeks.org/find-the-two-repeating-elements-in-a-given-array/
+http://www.geeksforgeeks.org/find-a-fixed-point-in-a-given-array/
+http://www.geeksforgeeks.org/fundamentals-of-algorithms/
+
+https://github.com/mirandaio/interview-questions
+http://python-textbok.readthedocs.io/en/1.0/Sorting_and_Searching_Algorithms.html
